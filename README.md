@@ -23,7 +23,7 @@
 
 ### Links
 
-- Live Site URL: [https://q-rcode-componente-hpbi.vercel.app](https://q-rcode-componente-hpbi.vercel.app)
+- Live Site URL: [https://nft-component-black.vercel.app](https://nft-component-black.vercel.app)
 
 ## Meu processo
 
