@@ -27,6 +27,11 @@ body{
 
 }
 
+#imagem-ethereum{
+    padding-left:21px;
+    padding-top:10px;
+}
+
 /*Seletores*/
 
 h4{
@@ -50,3 +55,14 @@ hr{
     border:none;
 
 }
+
+a.formatação{
+    font-size:15px;
+    color:hsl(193, 87%, 61%);
+    font-weight: bold;
+    padding-left:6px;
+    position:relative;
+    z-index: 0;
+    bottom:3px;
+}
+
