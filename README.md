@@ -52,6 +52,8 @@
 
   Ainda desejo continuar me refinando em HTML e CSS e futuramente JS. Ainda em CSS estou ansioso para aplicar propriedades do bootstrap.
 
+  Ainda falta colocar uma parte da animação da imagem nft. 
+
 
 ## Autor
 
