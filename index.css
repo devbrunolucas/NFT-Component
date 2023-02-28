@@ -20,14 +20,51 @@ body{
     height: 530px;
 }
 
-#imagem-equilibrio{
-        
-        
-        display:flex;
-        justify-content: center;
-        margin-top:6%;
-        
-}
+.image-container {
+    position: relative;
+    left:17px;
+    top:11px;
+    width:265px; 
+    height:270px;
+    border-radius:10px;
+    cursor: pointer;
+  }
+
+.image-container img.first-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width:265px;
+    height:260px;
+    border-radius:10px;
+    
+  }
+
+.image-container img.second-image {
+    position: absolute;
+    top: 110px;
+    left: 110px;
+    right: 100px;
+    width:40px; 
+    height:40px;
+    border-radius:10px;
+    
+  }
+
+.image-container img.second-image {
+    display: none;
+  }
+
+.image-container:active img.first-image {
+    display: block;
+  }
+
+.image-container:active img.second-image {
+    display: block;
+    
+    
+    
+  }
 
 
 #imagem-ethereum{
